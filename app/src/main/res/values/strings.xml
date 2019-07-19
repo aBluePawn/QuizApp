@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="submit_button">Submit</string>
+    <string name="hint">Type your answer here</string>
+    <string name="questionNumber1">Question # 1</string>
+    <string name="questionNumber2">Question # 2</string>
+    <string name="questionNumber3">Question # 3</string>
+    <string name="questionNumber4">Question # 4</string>
+    <string name="questionNumber5">Question # 5</string>
+    <string name="questionNumber6">Question # 6</string>
+    <string name="questionNumber7">Question # 7</string>
+
+</resources>

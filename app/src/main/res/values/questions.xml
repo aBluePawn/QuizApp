@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question1">Paris is the capital of: </string>
+    <string name="goodAnswerQ1">France</string>
+    <string name="answerA1">England</string>
+    <string name="answerB1">Italy</string>
+    <string name="answerC1">France</string>
+    <string name="answerD1">Paris</string>
+
+    <string name="question2">Croatia is a country in: </string>
+    <string name="goodAnswerQ2">Europe</string>
+    <string name="answerA2">Europe</string>
+    <string name="answerB2">Asia</string>
+    <string name="answerC2">Africa</string>
+    <string name="answerD2">Australia</string>
+
+    <string name="question3">These countries have no direct access to the sea: </string>
+    <string name="goodAnswerQ3">Switzerland Austria Hungary</string>
+    <string name="answerA3">Switzerland</string>
+    <string name="answerB3">Ukraine</string>
+    <string name="answerC3">Austria</string>
+    <string name="answerD3">Hungary</string>
+
+    <string name="question4">German is not the official language in: </string>
+    <string name="goodAnswerQ4">Slovakia</string>
+    <string name="answerA4">Germany</string>
+    <string name="answerB4">Slovakia</string>
+    <string name="answerC4">Belgium</string>
+    <string name="answerD4">Liechtenstein</string>
+
+    <string name="question5">Rome is the capital of: </string>
+    <string name="goodAnswerQ5">Italy</string>
+    <string name="answerA5">Spain</string>
+    <string name="answerB5">Russia</string>
+    <string name="answerC5">Romania</string>
+    <string name="answerD5">Italy</string>
+
+    <string name="question6">Portugal\'s only neighbour is: </string>
+    <string name="goodAnswerQ6">Spain</string>
+    <string name="answerA6">Spain</string>
+    <string name="answerB6">France</string>
+    <string name="answerC6">Italy</string>
+    <string name="answerD6">Greece</string>
+
+    <string name="question7">The capital of Greece is: </string>
+    <string name="goodAnswerQ7">Athens</string>
+    <string name="answerA7">Athens</string>
+    <string name="answerB7">Thessaloniki</string>
+    <string name="answerC7">Nicosia</string>
+    <string name="answerD7">Tirana</string>
+
+</resources>
